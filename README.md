@@ -11,7 +11,7 @@ I’m a Commerce student at the University of Melbourne, majoring in Marketing &
 - **3D Printing Business**: Ran a mini-empire at 16 with 3 printers, selling on Etsy and Shopify.  
 
 ### Languages and Tools:  
-**Programming Languages:** JavaScript, Python, HTML/CSS  
+**Programming Languages:** JavaScript, Python, HTML/CSS, C
 **Frameworks:** Next.js, Tailwind CSS  
 **Tools:** Git, Vercel, Figma, Shopify  
 
