@@ -13,7 +13,7 @@ I’m a Commerce student at the University of Melbourne, majoring in Marketing &
 ### Languages and Tools:  
 **Programming Languages:** JavaScript, Python, HTML/CSS, C
 **Frameworks:** Next.js, Tailwind CSS  
-**Tools:** Git, Vercel, Figma, Shopify  
+**Tools:** Git, Vercel, Figma, Shopify, Livekit, Google Cloud
 
 ---
 
