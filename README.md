@@ -21,7 +21,7 @@ Self-taught in coding, I’m building my own tech startup while juggling uni lif
 
 ### A Bit About Me:  
 I love learning with passionate people and exploring new challenges. My interests include:  
-- BJJ 🥋 | Matcha 🍵 | Anime + Manga 📖 | Tech & Startups 🚀 | Travelling ✈️ | AR/VR 😎  
+BJJ 🥋 | Matcha 🍵 | Anime + Manga 📖 | Tech & Startups 🚀 | Travelling ✈️ | AR/VR 😎  
 
 ### Find me:  
 💻 [GitHub](https://github.com/Spagum9113)  
