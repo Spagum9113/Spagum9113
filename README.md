@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, my name is Alex Carter 👋
 
-<!--
-**Spagum9113/Spagum9113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am a Web Developer working on e-commerce solutions!  
+🔭 I’m currently learning cloud technologies to further my knowledge in scalable systems.  
+⚡ Hobby Project from 2023: [Portfolio Website - Open in Vercel]  
 
-Here are some ideas to get you started:
+### Other projects that I work on:  
+- Built a custom CMS for a local business with over 500 users.  
+- Created a weather app using real-time API data for fun.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:  
+**Programming Languages:** Python, JavaScript, HTML/CSS  
+**Frameworks:** React, Flask  
+**Tools:** Git, VS Code, Figma  
